@@ -46,8 +46,7 @@ DB_NAME=
 
 4. Inicie o servidor:
 ```bash
-cd src
-node server.js
+npm start
 ```
 
 5. Acesse no navegador: http://localhost:3000
@@ -61,6 +60,9 @@ Base: `/funcionarios`
 | POST | `/funcionarios` | Cadastra um novo funcionário |
 | PUT | `/funcionarios/:id` | Atualiza os dados de um funcionário |
 | DELETE | `/funcionarios/:id` | Exclui um funcionário |
+
+## Autora
+Hully Freire
 
 
 
